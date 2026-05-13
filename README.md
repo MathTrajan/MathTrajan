@@ -1,7 +1,8 @@
 <div align="center">
 
   <h2>Hey, I'm Matheus Trajano 👋</h2>
-  <p><i>Análise e Desenvolvimento de Sistemas · Data Engineering · Full-Stack Development</i></p>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+Norma+SaaS...;Automating+with+PowerShell+%26+ETL...;Full-Stack+%7C+Data+Engineering+%7C+AI+Agents)](https://git.io/typing-svg)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-trajano-5179a7378)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-dev-beryl.vercel.app/)
@@ -186,6 +187,14 @@
 - 📊 **Excel do Básico ao Avançado** · Udemy / EAD
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MathTrajan&color=blueviolet&style=flat-square&label=Profile+Views" />
