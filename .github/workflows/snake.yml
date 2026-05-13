@@ -11,8 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-
       - uses: Platane/snk@v3
         with:
           github_user_name: MathTrajan
@@ -21,9 +19,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          folder: dist
-          clean: true
+        run: |
+          cd dist
+          git init
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add .
+          git commit -m "Update snake animation"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/MathTrajan/MathTrajan.git" HEAD:output
