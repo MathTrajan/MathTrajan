@@ -158,12 +158,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MathTrajan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathTrajan&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MathTrajan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathTrajan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathTrajan&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MathTrajan&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -189,11 +189,7 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <div align="center">
