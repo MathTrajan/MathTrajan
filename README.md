@@ -15,8 +15,8 @@
 ### 🧍 About Me
 
 - 🎓 Studying **Análise e Desenvolvimento de Sistemas** at UNIGOIÁS (2024–2027)
-- 💼 Working as **B2B Analyst** at Pró Colchões — platform management, ERP data & operational automation
-- ⚖️ Building **Norma** — multi-tenant SaaS Legal Management System (Next.js 16 + Prisma + DataJud API)
+- 💼 Working as **B2B Analyst** at Pró Colchões — **8+ automations in production · 40% rework reduction · ~15h/week saved**
+- ⚖️ Building **Norma** — multi-tenant SaaS Legal Management System with **11 modules** (Next.js 16 + Prisma + DataJud API)
 - 🤖 Author of **Jarvis** — AI observability agent monitoring automation pipelines via Groq LLM
 - 🧩 Built **Syntra** — full CRM with lead lifecycle, webhook ingestion, audit trail & dashboard (Spring Boot)
 - 📊 Daily user of **Power BI**, **Power Query (M)** and **SQL Server** against TOTVS Protheus ERP
@@ -37,20 +37,29 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VBScript](https://img.shields.io/badge/VBScript-1E477A?style=for-the-badge&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Data & Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query_(M)-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
 
 ---
 
@@ -151,6 +160,63 @@
       <a href="https://github.com/MathTrajan/amazon-books-analysis">View Repository →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛏️ E-commerce Pró Colchões</h3>
+      <p>
+        Landing page e vitrine institucional para a Pró Colchões, com layout responsivo,
+        animações suaves e foco em conversão. Integrado com pipeline de dados B2B.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🏗️ WR Engenharia</h3>
+      <p>
+        Site institucional para WR Engenharia com identidade visual técnica,
+        seções de serviços, portfólio de obras e contato. Layout responsivo
+        e otimizado para SEO.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>☕ Fundamentos de Backend em Java</h3>
+      <p>
+        Estudo dirigido da graduação (ADS/UNIGOIÁS) cobrindo POO, coleções,
+        tratamento de exceções e fundamentos de APIs REST. Base para o stack
+        Spring Boot usado em Syntra.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-007396?style=flat-square" />
+        <img src="https://img.shields.io/badge/Estudo-7C3AED?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>
+        Portfólio pessoal single-file (HTML5/CSS3/JS puro, ~3k linhas) com
+        dark theme, glassmorphism, animações via IntersectionObserver,
+        SEO completo (Open Graph + Schema.org) e Vercel Analytics.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://matheus-dev-beryl.vercel.app/">Live Demo →</a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -179,12 +245,18 @@
 
 ---
 
+### 🎓 Education
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** · UNIGOIÁS *(2024–2027, in progress)*
+
 ### 🏅 Certifications
 
-- 🖥️ **CS50 — Ciência da Computação** · Fundação Estudar
-- 🛢️ **SQL Server para Desenvolvedores** · Udemy / DNC
-- 🤖 **Python para IA — do Zero ao Primeiro ChatBot** · Alura
-- 📊 **Excel do Básico ao Avançado** · Udemy / EAD
+- 🖥️ **CS50 — Ciência da Computação** · Fundação Estudar *(Feb 2026 · 70h)*
+- 🛢️ **SQL Server do Básico ao Avançado** · Udemy / DNC *(Jan 2025 · 11.5h)*
+- 🤖 **Python para IA — do Zero ao Primeiro ChatBot** · Alura *(Feb 2025 · 4h)*
+- 🐍 **Python do Zero** · Alura *(Jan 2025 · 2h)*
+- 🎨 **HTML e CSS** · Alura *(Jan 2025 · 8h)*
+- 📊 **Excel do Básico ao Avançado** · Udemy / EAD *(Feb 2025 · 28.5h)*
 
 ---
 
