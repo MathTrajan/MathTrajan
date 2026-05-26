@@ -12,6 +12,35 @@
 
 ---
 
+<div align="center">
+
+### 📊 Impact Metrics
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>8+</h2>
+      <sub><b>Automations<br/>in Production</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>40%</h2>
+      <sub><b>Operational<br/>Rework Reduction</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>~15h</h2>
+      <sub><b>Saved per Week<br/>(B2B Team)</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>11</h2>
+      <sub><b>SaaS Modules<br/>Shipped (Norma)</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### 🧍 About Me
 
 - 🎓 Studying **Análise e Desenvolvimento de Sistemas** at UNIGOIÁS (2024–2027)
@@ -224,11 +253,31 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MathTrajan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MathTrajan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MathTrajan&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MathTrajan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MathTrajan&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MathTrajan&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=MathTrajan&theme=highcontrast&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=MathTrajan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/MathTrajan/MathTrajan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </div>
 
 ---
@@ -263,7 +312,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=minimal&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  </picture>
 </div>
 
 <div align="center">
