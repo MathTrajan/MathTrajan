@@ -84,19 +84,17 @@
       <a href="https://github.com/MathTrajan/norma">View Repository →</a>
     </td>
     <td width="50%">
-      <h3>🧩 Syntra — CRM de Leads</h3>
+      <h3>🏗️ WR Engenharia</h3>
       <p>
-        CRM completo com ciclo de vida de leads, ingestão via webhook (Divia),
-        audit trail, Kanban, dashboard de métricas e RBAC. Backend robusto com
-        Spring Boot 3 + Flyway + PostgreSQL e frontend Thymeleaf com AJAX.
+        Site institucional para WR Engenharia com identidade visual técnica,
+        seções de serviços, portfólio de obras e contato. Layout responsivo
+        e otimizado para SEO.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/MathTrajan/syntra">View Repository →</a>
     </td>
   </tr>
   <tr>
@@ -174,17 +172,19 @@
       </p>
     </td>
     <td width="50%">
-      <h3>🏗️ WR Engenharia</h3>
+      <h3>🧩 Syntra — CRM de Leads</h3>
       <p>
-        Site institucional para WR Engenharia com identidade visual técnica,
-        seções de serviços, portfólio de obras e contato. Layout responsivo
-        e otimizado para SEO.
+        CRM completo com ciclo de vida de leads, ingestão via webhook (Divia),
+        audit trail, Kanban, dashboard de métricas e RBAC. Backend robusto com
+        Spring Boot 3 + Flyway + PostgreSQL e frontend Thymeleaf com AJAX.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
       </p>
+      <a href="https://github.com/MathTrajan/syntra">View Repository →</a>
     </td>
   </tr>
   <tr>
@@ -224,8 +224,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MathTrajan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathTrajan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MathTrajan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 <div align="center">
@@ -237,10 +236,13 @@
 ### 🎯 Current Focus
 
 ```text
-⚖️ Norma SaaS         ███████████████  Next.js 16 · Prisma · DataJud API · Multi-tenancy
-🔧 ETL Automation     ████████████░░░  Protheus ERP · PowerShell · Google Drive API
-⚡ Scalability        ████████░░░░░░░  Redis · Distributed Architecture · Message Queues
-🤖 AI Agents          ██████░░░░░░░░░  LLM Observability · Log Ingestion · Groq API
+⚖️ Norma SaaS         ███████████████  Next.js 16 · Prisma · DataJud API · Multi-tenancy · RBAC
+🧩 Syntra CRM         █████████████░░  Spring Boot 3 · PostgreSQL · Flyway · Webhook · Audit Trail
+🔧 ETL Automation     ████████████░░░  Protheus ERP · PowerShell · Excel COM · Google Drive API
+🤖 AI Agents          ██████████░░░░░  Groq LLaMA · Log Ingestion · Dual SQLite/Postgres
+📊 BI & Data          █████████░░░░░░  Power BI · DAX · Power Query (M) · SQL Server
+🎓 CS / ADS Studies   ████████░░░░░░░  Algoritmos · POO Java · CS50 · UNIGOIÁS
+⚡ Scalability        ██████░░░░░░░░░  Redis · Message Queues · Distributed Architecture
 ```
 
 ---
