@@ -12,35 +12,6 @@
 
 ---
 
-<div align="center">
-
-### 📊 Impact Metrics
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h2>8+</h2>
-      <sub><b>Automations<br/>in Production</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>40%</h2>
-      <sub><b>Operational<br/>Rework Reduction</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>~15h</h2>
-      <sub><b>Saved per Week<br/>(B2B Team)</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>11</h2>
-      <sub><b>SaaS Modules<br/>Shipped (Norma)</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ### 🧍 About Me
 
 - 🎓 Studying **Análise e Desenvolvimento de Sistemas** at UNIGOIÁS (2024–2027)
