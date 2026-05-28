@@ -111,7 +111,7 @@
         <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <a href="https://github.com/MathTrajan/jarvis">View Repository →</a>
+      <a href="[https://github.com/MathTrajan/jarvis](https://github.com/MathTrajan/Jarvis-Chat-Assistente-Virtual-Inteligente)">View Repository →</a>
     </td>
     <td width="50%">
       <h3>📊 Dashboard Estratégico Power BI</h3>
