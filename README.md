@@ -153,7 +153,6 @@
         <img src="https://img.shields.io/badge/Data_Analysis-FF6B35?style=flat-square" />
         <img src="https://img.shields.io/badge/Data_Pipeline-4285F4?style=flat-square" />
       </p>
-      <a href="https://github.com/MathTrajan/amazon-books-analysis">View Repository →</a>
     </td>
   </tr>
   <tr>
@@ -182,7 +181,6 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
       </p>
-      <a href="https://github.com/MathTrajan/syntra">View Repository →</a>
     </td>
   </tr>
   <tr>
