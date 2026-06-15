@@ -273,8 +273,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=minimal&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" alt="Activity Graph" />
   </picture>
 </div>
 
