@@ -2,7 +2,7 @@
 
   <h2>Hey, I'm Matheus Trajano 👋</h2>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+Norma+SaaS...;Automating+with+PowerShell+%26+ETL...;Full-Stack+%7C+Data+Engineering+%7C+AI+Agents)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+Norma+SaaS...;Technical+Support+%26+Systems+Diagnostics...;Automating+with+PowerShell+%26+ETL...;Full-Stack+%7C+Data+Engineering+%7C+AI+Agents)](https://git.io/typing-svg)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-trajano-5179a7378)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-dev-beryl.vercel.app/)
@@ -15,7 +15,8 @@
 ### 🧍 About Me
 
 - 🎓 Studying **Análise e Desenvolvimento de Sistemas** at UNIGOIÁS (2024–2027)
-- 💼 Working as **B2B Analyst** at Pró Colchões — **8+ automations in production · 40% rework reduction · ~15h/week saved**
+- 💼 Currently **Technical Support Analyst** at **A²O Sistemas Gerenciais** — diagnosis, troubleshooting & root-cause analysis of management systems
+- 🗂️ Previously **B2B Analyst** at Probel Mercosul Espumas Industriais (2024–2026) — **8+ automations in production · 40% rework reduction · ~15h/week saved**
 - ⚖️ Building **Norma** — multi-tenant SaaS Legal Management System with **11 modules** (Next.js 16 + Prisma + DataJud API)
 - 🤖 Author of **Jarvis** — AI observability agent monitoring automation pipelines via Groq LLM
 - 🧩 Built **Syntra** — full CRM with lead lifecycle, webhook ingestion, audit trail & dashboard (Spring Boot)
@@ -60,6 +61,17 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| **Technical Support Analyst** | A²O Sistemas Gerenciais | Jun 2026 — Present | Ticket handling, troubleshooting & root-cause analysis of management systems · solution documentation |
+| **B2B Analyst** | Probel Mercosul Espumas Industriais | Jul 2024 — Jun 2026 | 8+ production automation routines (PowerShell + Excel COM + Google Drive API) · 40% less rework · TOTVS Protheus ERP via SQL Server · Power BI dashboards |
+| **Administrative Assistant** | Drogashop | Dec 2020 — Jun 2024 | Excel automations · 95% post-sales satisfaction |
+| **Telemarketing Operator** | Brasil Telecom / OI | Sep 2019 — Sep 2020 | Started as a young apprentice |
 
 ---
 
@@ -128,7 +140,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚙️ Automação ETL — Pró Colchões B2B</h3>
+      <h3>⚙️ Automação ETL — Probel Mercosul B2B</h3>
       <p>
         Infraestrutura de automação PowerShell com Excel COM Interop, fila via
         Mutex global, upload via Google Drive API (OAuth + PATCH) e wrappers VBS
