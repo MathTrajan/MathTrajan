@@ -1,0 +1,13 @@
+# Editor / IDE
+.idea/
+.vscode/
+
+# Claude Code (local, privado)
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
