@@ -229,6 +229,21 @@
 
 ---
 
+### 🔗 Explore os Repositórios
+
+<div align="center">
+
+[![Jarvis](https://img.shields.io/badge/🤖_Jarvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Jarvis-Chat-Assistente-Virtual-Inteligente)
+[![Norma](https://img.shields.io/badge/⚖️_Norma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Sistema-Gestao-Juridica)
+[![Syntra](https://img.shields.io/badge/🧩_Syntra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/CRM-Syntra)
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Portfolio-Profissional-Matheus-Trajano)
+
+**🌐 Demos ao vivo:** [Jarvis](https://jarvis-observability.vercel.app) · [WR Engenharia](https://wrengenharia.work) · [Portfólio](https://matheus-dev-beryl.vercel.app/)
+
+</div>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
