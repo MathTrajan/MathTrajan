@@ -2,7 +2,7 @@
 
   <h2>Hey, I'm Matheus Trajano 👋</h2>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+Norma+SaaS...;Technical+Support+%26+Systems+Diagnostics...;Automating+with+PowerShell+%26+ETL...;Full-Stack+%7C+Data+Engineering+%7C+AI+Agents)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Construction+management+in+production...;Building+Norma+SaaS+%26+an+embeddable+chat...;Technical+Support+%26+Systems+Diagnostics...;Full-Stack+%7C+Data+Engineering+%7C+Local+LLMs)](https://git.io/typing-svg)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-trajano-5179a7378)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-dev-beryl.vercel.app/)
@@ -15,14 +15,14 @@
 ### 🧍 About Me
 
 - 🎓 Studying **Análise e Desenvolvimento de Sistemas** at UNIGOIÁS (2024–2027)
-- 💼 Currently **Technical Support Analyst** at **A²O Sistemas Gerenciais** — diagnosis, troubleshooting & root-cause analysis of management systems
-- 🗂️ Previously **B2B Analyst** at Probel Mercosul Espumas Industriais (2024–2026) — **8+ automations in production · 40% rework reduction · ~15h/week saved**
-- ⚖️ Building **Norma** — multi-tenant SaaS Legal Management System with **11 modules** (Next.js 16 + Prisma + DataJud API)
-- 🤖 Author of **Jarvis** — AI observability agent monitoring automation pipelines via Groq LLM
-- 🧩 Built **Syntra** — full CRM with lead lifecycle, webhook ingestion, audit trail & dashboard (Spring Boot)
+- 💼 Currently **Technical Support Analyst** at **A²O Sistemas Gerenciais**: diagnosis, troubleshooting and root-cause analysis of management systems
+- 🏗️ Author of a **construction management platform running in production** for a real client: works, budgets, orders, payroll, tax and accounting modules
+- ⚖️ Building **Norma**, a multi-tenant SaaS Legal Management System with **11 modules** (Next.js 16 + Prisma/Neon + DataJud API)
+- 💬 Building an **embeddable customer-support chat**: widget for the client, panel for the agent, multi-tenant by API key, single runtime dependency
+- 💰 Author of **Capital**, a personal finance app with recurring rules, installment plans and goals (NestJS + Angular 17 + PostgreSQL)
+- 🤖 Author of **Jarvis**, a **fully offline** LLM chat: local llama.cpp only, no database, no data leaving the machine
+- 🗂️ Previously **B2B Analyst** at Probel Mercosul Espumas Industriais (2024–2026): **8+ automations in production · 40% rework reduction · ~15h/week saved**
 - 📊 Daily user of **Power BI**, **Power Query (M)** and **SQL Server** against TOTVS Protheus ERP
-- ⚙️ Maintainer of a **PowerShell ETL automation** infrastructure (Excel COM → Google Drive API, mutex queue)
-- 🔭 Exploring **distributed systems architecture** with Redis, PostgreSQL and message queues
 - 📫 Reach me at **matheustrajano.dev@gmail.com**
 
 ---
@@ -95,32 +95,73 @@
       </p>
     </td>
     <td width="50%">
-      <h3>🏗️ WR Engenharia</h3>
+      <h3>🏗️ Gestão de Obras <sub><em>(em produção)</em></sub></h3>
       <p>
-        Site institucional para WR Engenharia com identidade visual técnica,
-        seções de serviços, portfólio de obras e contato. Layout responsivo
-        e otimizado para SEO.
+        Plataforma de gestão para construtora, <strong>em produção com cliente real
+        e contrato assinado</strong>: obras, orçamentos, pedidos, tarefas, clientes,
+        financeiro, fiscal, RH/folha e contabilidade. API em Node sobre PostgreSQL
+        com migrations versionadas, frontend TypeScript + Vite. Repositório privado.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=fly.io&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 Jarvis — Observability Agent</h3>
+      <h3>💬 Chat de Atendimento Embutível</h3>
       <p>
-        Agente de IA que ingere logs de automações PowerShell em tempo real,
-        detecta falhas e responde via LLM (Groq/Gemini). Armazenamento dual
-        SQLite/PostgreSQL com monitor de status e frontend com polling de 30s.
+        Produto próprio: widget de chat que o cliente embute no site com uma linha
+        de script, mais painel de atendimento em tempo real. Multi-tenant por
+        <code>apiKey</code>, notificações, transferência e histórico. Backend Node com
+        <strong>uma única dependência</strong> (<code>pg</code>), que nem é carregada no modo
+        arquivo. Suíte E2E própria em CDP puro, incluindo testes de contraste e de
+        segurança. Repositório privado.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=fly.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/E2E_CDP-0A0A0A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💰 Capital <sub><em>(gestão financeira)</em></sub></h3>
+      <p>
+        App de finanças pessoais com recorrências, parcelamentos, metas, categorias
+        e dashboard mensal. Agregação mensal concentrada numa <strong>fonte única</strong>
+        para KPIs, categorias e evolução, cache stale-while-revalidate no front e
+        pré-carga de 13 meses numa request.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=fly.io&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Jarvis <sub><em>(LLM 100% offline)</em></sub></h3>
+      <p>
+        Chat com LLM que roda inteiramente na máquina do usuário: backend Express
+        enxuto, SPA sem framework e sem build, modelo local via llama.cpp. Sem banco,
+        sem cadastro, sem provedor de nuvem. Nenhum dado sai da máquina, e sem o
+        modelo de pé o chat responde 503 de propósito: não existe fallback que vaze
+        conversa. Inclui sandbox de arquivos com 47 casos de teste de escape de caminho.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/llama.cpp-0A0A0A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy_by_design-7C3AED?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -233,12 +274,13 @@
 
 <div align="center">
 
-[![Jarvis](https://img.shields.io/badge/🤖_Jarvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Jarvis-Chat-Assistente-Virtual-Inteligente)
 [![Norma](https://img.shields.io/badge/⚖️_Norma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Sistema-Gestao-Juridica)
+[![Capital](https://img.shields.io/badge/💰_Capital-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Sistema-Financeiro-Pessoal)
+[![Jarvis](https://img.shields.io/badge/🤖_Jarvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Jarvis-Chat-Assistente-Virtual-Inteligente)
 [![Syntra](https://img.shields.io/badge/🧩_Syntra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/CRM-Syntra)
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Portfolio-Profissional-Matheus-Trajano)
 
-**🌐 Demos ao vivo:** [Jarvis](https://jarvis-observability.vercel.app) · [WR Engenharia](https://wrengenharia.work) · [Portfólio](https://matheus-dev-beryl.vercel.app/)
+**🌐 Demo ao vivo:** [Portfólio](https://matheus-dev-beryl.vercel.app/)
 
 </div>
 
@@ -259,13 +301,13 @@
 ### 🎯 Current Focus
 
 ```text
-⚖️ Norma SaaS         ███████████████  Next.js 16 · Prisma · DataJud API · Multi-tenancy · RBAC
-🧩 Syntra CRM         █████████████░░  Spring Boot 3 · PostgreSQL · Flyway · Webhook · Audit Trail
-🔧 ETL Automation     ████████████░░░  Protheus ERP · PowerShell · Excel COM · Google Drive API
-🤖 AI Agents          ██████████░░░░░  Groq LLaMA · Log Ingestion · Dual SQLite/Postgres
+🏗️ Gestão de Obras    ███████████████  Em produção · Node · PostgreSQL · Migrations · Fly.io
+💬 Chat Embutível     ██████████████░  Widget + painel · Multi-tenant · E2E em CDP puro
+⚖️ Norma SaaS         █████████████░░  Next.js 16 · Prisma/Neon · DataJud API · RBAC
+💰 Capital            ██████████░░░░░  NestJS · Angular 17 · Prisma · Agregação mensal
+🤖 LLM local          █████████░░░░░░  llama.cpp · RAG local · Privacidade por design
 📊 BI & Data          █████████░░░░░░  Power BI · DAX · Power Query (M) · SQL Server
 🎓 CS / ADS Studies   ████████░░░░░░░  Algoritmos · POO Java · CS50 · UNIGOIÁS
-⚡ Scalability        ██████░░░░░░░░░  Redis · Message Queues · Distributed Architecture
 ```
 
 ---
@@ -286,11 +328,7 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathTrajan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7c3aed&line=4f8ef7&point=7c3aed" alt="Activity Graph" />
-  </picture>
+  <img src="./assets/activity-graph.svg" alt="Grafico de contribuicoes" width="900" />
 </div>
 
 <div align="center">

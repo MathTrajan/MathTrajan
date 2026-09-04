@@ -1,0 +1,52 @@
+name: Activity graph
+
+# Gera o grafico de contribuicoes e commita o SVG no proprio repositorio.
+# Motivo: o servico github-readme-activity-graph.vercel.app foi desativado
+# pelo mantenedor (HTTP 402 / DEPLOYMENT_DISABLED) e nao volta sozinho.
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # todo dia, 03h17 em Brasilia
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/gerar-activity-graph.mjs
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar o SVG
+        env:
+          # GITHUB_TOKEN cobre o caso normal. Se a leitura do calendario de
+          # contribuicoes for negada, criar um PAT com escopo read:user e
+          # guardar como secret GRAPH_TOKEN: este passo passa a usar ele.
+          GITHUB_TOKEN: ${{ secrets.GRAPH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node scripts/gerar-activity-graph.mjs
+
+      - name: Commitar se mudou
+        run: |
+          if [ -z "$(git status --porcelain assets/activity-graph.svg)" ]; then
+            echo "Grafico sem alteracao. Nada a commitar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git commit -m "chore(grafico): atualiza o activity graph"
+          git push
