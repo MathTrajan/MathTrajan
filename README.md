@@ -274,11 +274,11 @@
 
 <div align="center">
 
-[![Norma](https://img.shields.io/badge/⚖️_Norma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Sistema-Gestao-Juridica)
-[![Capital](https://img.shields.io/badge/💰_Capital-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Sistema-Financeiro-Pessoal)
-[![Jarvis](https://img.shields.io/badge/🤖_Jarvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Jarvis-Chat-Assistente-Virtual-Inteligente)
+[![Norma](https://img.shields.io/badge/⚖️_Norma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/SaaS-Juridico-Norma)
+[![Capital](https://img.shields.io/badge/💰_Capital-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/App-Financeiro-Capital)
+[![Jarvis](https://img.shields.io/badge/🤖_Jarvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/LLM-Local-Jarvis)
 [![Syntra](https://img.shields.io/badge/🧩_Syntra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/CRM-Syntra)
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Portfolio-Profissional-Matheus-Trajano)
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Portfolio-Profissional)
 
 **🌐 Demo ao vivo:** [Portfólio](https://matheus-dev-beryl.vercel.app/)
 

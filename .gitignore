@@ -7,6 +7,10 @@
 CLAUDE.md
 AGENTS.md
 
+# Diário de sessões — contém valor/nome/dado real, nunca versionar (repo público)
+DIARIO-SESSOES.local.md
+*.local.md
+
 # Sistema operacional
 .DS_Store
 Thumbs.db
