@@ -20,7 +20,7 @@
 - ⚖️ Building **Norma**, a multi-tenant SaaS Legal Management System with **11 modules** (Next.js 16 + Prisma/Neon + DataJud API)
 - 💬 Building an **embeddable customer-support chat**: widget for the client, panel for the agent, multi-tenant by API key, single runtime dependency
 - 💰 Author of **Capital**, a personal finance app with recurring rules, installment plans and goals (NestJS + Angular 17 + PostgreSQL)
-- 🤖 Author of **Jarvis**, a **fully offline** LLM chat: local llama.cpp only, no database, no data leaving the machine
+- 🤖 Author of **Cipher**, a **fully offline** LLM chat: local llama.cpp only, no database, no data leaving the machine
 - 🗂️ Previously **B2B Analyst** at Probel Mercosul Espumas Industriais (2024–2026): **8+ automations in production · 40% rework reduction · ~15h/week saved**
 - 📊 Daily user of **Power BI**, **Power Query (M)** and **SQL Server** against TOTVS Protheus ERP
 - 📫 Reach me at **matheustrajano.dev@gmail.com**
@@ -149,7 +149,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 Jarvis <sub><em>(LLM 100% offline)</em></sub></h3>
+      <h3>🤖 Cipher <sub><em>(LLM 100% offline)</em></sub></h3>
       <p>
         Chat com LLM que roda inteiramente na máquina do usuário: backend Express
         enxuto, SPA sem framework e sem build, modelo local via llama.cpp. Sem banco,
@@ -185,7 +185,7 @@
       <p>
         Infraestrutura de automação PowerShell com Excel COM Interop, fila via
         Mutex global, upload via Google Drive API (OAuth + PATCH) e wrappers VBS
-        para execução silenciosa. Monitorado pelo Jarvis em tempo real.
+        para execução silenciosa.
       </p>
       <p>
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -276,7 +276,7 @@
 
 [![Norma](https://img.shields.io/badge/⚖️_Norma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/SaaS-Juridico-Norma)
 [![Capital](https://img.shields.io/badge/💰_Capital-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/App-Financeiro-Capital)
-[![Jarvis](https://img.shields.io/badge/🤖_Jarvis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/LLM-Local-Jarvis)
+[![Cipher](https://img.shields.io/badge/🤖_Cipher-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/LLM-Local-Cipher)
 [![Syntra](https://img.shields.io/badge/🧩_Syntra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/CRM-Syntra)
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathTrajan/Portfolio-Profissional)
 
